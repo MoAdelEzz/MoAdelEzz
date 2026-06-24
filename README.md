@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>Software is beautiful. I love writing code</strong>
+  <strong>Turning caffeine into software since 2024.</strong>
 </h1>
 
 
