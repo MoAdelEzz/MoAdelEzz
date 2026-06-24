@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>Turning caffeine into software since 2024.</strong>
+  <strong>Turning caffeine into software.</strong>
 </h1>
 
 
